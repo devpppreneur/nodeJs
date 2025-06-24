@@ -1,3 +1,4 @@
 # nodeJs
-Curso Udemy nodeJs 
-Profesor: Fernando Herrera
+**Plataforma:** Udemy
+**Ramo:** nodeJs 
+**Profesor:** Fernando Herrera
